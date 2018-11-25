@@ -31,7 +31,7 @@ public class Main {
     /**
      * 数据集地址
      */
-    static String dataset = "F:\\kite2.txt";
+    static String dataset = "F:\\kite3.txt";
     /**
      * 迭代次数
      */
