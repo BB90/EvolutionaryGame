@@ -31,7 +31,7 @@ public class Main {
     /**
      * 数据集地址
      */
-    static String dataset = "F:\\Eclipse wokespace\\TreasureOf203\\kite.txt";
+    static String dataset = "F:\\kite.txt";
     /**
      * 迭代次数
      */
